@@ -1,7 +1,21 @@
 # django-blog-api
 
 ## Description
-This is the backend for a blog that can be used with any frontend you choose...
-The main endpoint is in localhost:8000/api/v1
+A Web API for creating and editing blog posts.
+The main endpoint is in ```https://127.0.0.1:8000/api/v1```
 
-I'm still building it out, so I will update this as I go on....hopefully
+## Usage
+- Clone this repository.
+- To install, use
+    - ```pipenv install pipfile```
+
+
+## Documentation
+- To get documentation (CoreAPI) standard:
+    ```https://127.0.0.1:8000/docs```
+
+- Swagger UI API view (Browsable):
+    ```https://127.0.0.1:8000/swagger```
+
+- OpenAPI standard:
+    ```https://127.0.0.1:8000/redoc```
