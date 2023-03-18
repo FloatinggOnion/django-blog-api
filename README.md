@@ -14,20 +14,20 @@ The main endpoint is in ```https://127.0.0.1:8000/api/v1```
 ## Documentation
 - To get documentation (CoreAPI) standard:  
 
-    ```https://127.0.0.1:8000/docs```  <br>
+    ```https://127.0.0.1:8000/docs```  
 
     ![CoreAPI](docs_coreapi.png)  
 
 
 - Swagger UI API view (Browsable):  
 
-    ```https://127.0.0.1:8000/swagger``` <br> 
+    ```https://127.0.0.1:8000/swagger``` 
 
     ![Swagger](docs_swagger.png)  
 
 
 - OpenAPI standard:  
 
-    ```https://127.0.0.1:8000/redoc```  <br>
+    ```https://127.0.0.1:8000/redoc```  
 
     ![Redoc](docs_redoc.png)  
