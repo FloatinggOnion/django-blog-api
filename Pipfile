@@ -13,7 +13,7 @@ django-allauth = "*"
 dj-rest-auth = "*"
 coreapi = "*"
 pyyaml = "*"
-django-rest-swagger = "*"
+drf-yasg = "*"
 
 [dev-packages]
 
