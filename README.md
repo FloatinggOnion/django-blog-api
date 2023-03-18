@@ -5,7 +5,7 @@ A Web API for creating and editing blog posts.
 
 The main endpoint is in ```https://127.0.0.1:8000/api/v1```
 
-Built with <span style="color: red">love</span> and Django REST Framework.
+Built with <span style="color: red;">love</span> and Django REST Framework.
 
 ## Usage
 - Clone this repository.
