@@ -8,6 +8,7 @@ The main endpoint is in ```https://127.0.0.1:8000/api/v1```
 - Clone this repository.
 - To install, use
     - ```pipenv install pipfile```
+- ```py manage.py runserver```
 
 
 ## Documentation
