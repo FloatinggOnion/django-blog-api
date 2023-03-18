@@ -8,6 +8,12 @@ django = "*"
 python-dotenv = "*"
 djangorestframework = "*"
 django-cors-headers = "*"
+pipfile = "*"
+django-allauth = "*"
+dj-rest-auth = "*"
+coreapi = "*"
+pyyaml = "*"
+django-rest-swagger = "*"
 
 [dev-packages]
 
